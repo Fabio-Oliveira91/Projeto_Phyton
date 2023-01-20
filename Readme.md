@@ -1,5 +1,7 @@
-Olá Recruter
+Olá,
 
- Meu nome é Fabio Diego, sou Cientista da Computação formado pelo Centro Universitário de Ensino Superior do Amazonas - CIESA  de Manaus e trabalho no ramo há dois anos.
+    Meu nome é Fabio Diego, sou Cientista da Computação formado pelo Centro Universitário de Ensino Superior do Amazonas -CIESA em Manaus-AM.
 
-- Trabalhei durante 5 anos como Técnico de informática, assistete Técnico, assistente de TI e também como freelancer via PJ. Portanto, possuo bagagem para desenvolver a parte de Administração e monitoramento da rede interna da empresa; suporte ao usuário local; Configuração de roteadores; Manutenção da infraestrutura de rede; Cabeamento estruturado; Conhecimento em ferramentas de monitoração (Zabbix); Instalação de softwares; Instalação de sistema operacional Windows; Implantação de Sistemas e Servidores Instalação, Windows Server ( Active Directory, GPO, NAT, DHCP ); Firewall; Proxy; TCP/IP; VLAN; WAN; LAN; VPN; Domínio em pacote Microsoft Office; Domínio em manutenção em hardware de notebooks e desktops; Execução de tarefas rotineiras do sistema da empresa, Central de serviços com (GLPI).”
+    Não tenho receio de dizer que nunca trabalhei em uma empresa ou projetos na vida real em desenvolvimento software. Mais tenho certeza que serei um dos melhores programadores de python onde eu estiver. Portanto estou a procura de uma empresa que me dê uma oportunidade como desenvolvedor python junior.
+
+    Neste projeto quero mostrar meus conhecimento como desenvolvedor python trabalhando intensamente. Neste projeto estou usando as ferramentas do Git e Github para fazer o vercionamento dos códigos python.
